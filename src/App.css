@@ -1,0 +1,24 @@
+.card {
+    width: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card-details {
+    margin: 0 auto;
+    width: 260px;
+    line-height: 0.8;
+    position: relative;
+    bottom: 5px;
+}
+
+.card-type {
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.card-figures {
+    font-weight: bold;
+    font-size: 0.9rem;
+}

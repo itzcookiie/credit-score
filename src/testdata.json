@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Anywhere Card",
+        "APR": 33.9,
+        "Balance Transfer Offer Duration": 0,
+        "Purchase Offer Duration": 0,
+        "Credit Available": 300,
+        "type": "Anywhere"
+    },
+    {
+        "id": 2,
+        "title": "Liquid Card",
+        "APR": 33.9,
+        "Balance Transfer Offer Duration": 12,
+        "Purchase Offer Duration": 6,
+        "Credit Available": 3000,
+        "type": "Liquid"
+    },
+    {
+        "id": 3,
+        "title": "Student Life",
+        "APR": 18.9,
+        "Balance Transfer Offer Duration": 0,
+        "Purchase Offer Duration": 6,
+        "Credit Available": 1200,
+        "type": "Student"
+    }
+]
